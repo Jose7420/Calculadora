@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package calculadora;
 
+package calculadora;
+// esto es un comentario desde local
 /**
  *
  * @author redes
